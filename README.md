@@ -1,6 +1,6 @@
-# olá chamo leticia  
-## estudo ads na unifametro e estou no 4° semestre
-### tecnologias que eu uso
+# Olá, chamo Letícia  
+## Estudo ads na unifametro
+### 
 
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Leticiamoura01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
