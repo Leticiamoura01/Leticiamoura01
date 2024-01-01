@@ -1,5 +1,5 @@
-# Olá, chamo Letícia  
-## Estudo ads na unifametro
+# Olá, me chamo Letícia.
+## Sou formada em análise e desenvolvimento de sistemas.
 ### 
 
 
